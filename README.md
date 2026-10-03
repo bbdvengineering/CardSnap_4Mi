@@ -8,7 +8,7 @@ favorite, and share them straight from your phone.
 ## Download
 
 Get the latest APK from the
-[Releases page](https://github.com/bbdvengineering/CardSnap/releases).
+[Releases page](https://github.com/bbdvengineering/CardSnap_4Mi/releases).
 
 This app isn't on the Google Play Store, so you'll need to sideload it.
 See [Install_readme.md](Install_readme.md) for step-by-step install instructions.
