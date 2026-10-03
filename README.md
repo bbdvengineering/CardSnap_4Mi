@@ -1,8 +1,9 @@
 # CardSnap
 
-A digital business card scanner for Android. Scan a physical business
-card with your camera, let on-device OCR pull out the contact details,
-and save it to your phone or your address book.
+A digital business card management app for Android. Scan physical
+business cards with your camera and let on-device OCR pull out the
+contact details, or build your own custom cards - then organize,
+favorite, and share them straight from your phone.
 
 ## Download
 
@@ -16,8 +17,9 @@ See [Install_readme.md](Install_readme.md) for step-by-step install instructions
 
 - Scan business cards using your camera
 - Automatic text extraction (OCR) for names, phone numbers, and emails
-- Save scanned cards to your device
-- Favorite your most-used contacts
+- Create your own custom digital business cards
+- Organize and manage your saved cards in one place
+- Favorite your most-used contacts for quick access
 - Share card details via QR code, email, text, or messaging apps
 
 ## Privacy
