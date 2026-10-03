@@ -8,7 +8,7 @@ installing non-Play apps on Android and only takes a minute.
 
 Download `CardSnap_4Mi.apk` from the Releases page:
 
-**[github.com/bbdvengineering/CardSnap/releases](https://github.com/bbdvengineering/CardSnap/releases)**
+**[github.com/bbdvengineering/CardSnap_4Mi/releases](https://github.com/bbdvengineering/CardSnap_4Mi/releases)**
 
 Open the link on your Android phone, or download it on a computer and
 transfer the file to your phone (email it to yourself, use Google Drive,
