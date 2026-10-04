@@ -13,6 +13,9 @@ Get the latest APK from the
 This app isn't on the Google Play Store, so you'll need to sideload it.
 See [Install_readme.md](Install_readme.md) for step-by-step install instructions.
 
+> **Note:** This repository distributes the compiled APK only - no
+> source code is included.
+
 ## Features
 
 - Scan business cards using your camera
